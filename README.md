@@ -1,5 +1,5 @@
 # Reliance_Smart_Sales_Report-PowerBI
-https://media.licdn.com/dms/image/v2/D5622AQFyNQpQkvKygg/feedshare-shrink_800/B56ZW.3WwIGUAg-/0/1742663938418?e=1745452800&v=beta&t=FLiSrSIVWK6CL4ArkFH736n8iIZc8km9vhm-xPYT2yc
+![image](https://github.com/user-attachments/assets/74e63d90-a207-4b72-b511-87311184c0e3)
 
 Just dove deep into the Reliance SMART sales data and transformed it into this dynamic report! 📊 It's wonderful how numbers can tell such a compelling story when visualized effectively.
 
